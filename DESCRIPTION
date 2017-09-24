@@ -1,9 +1,9 @@
-Package: vancitypackage
-Title: What the Package Does (one line, title case)
+Package: vancityhome
+Title: vancity home-buying visual guide
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Amin", "Adibi", email = "maadibi@mail.ubc.ca", role = c("aut", "cre"))
+Description: This package helps you identify most desirable locations for your future home in Vancouver. 
 Depends: R (>= 3.4.1)
-License: What license is it under?
+License: GNU
 Encoding: UTF-8
 LazyData: true
